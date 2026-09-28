@@ -136,7 +136,7 @@ export const portfolioData: PersonalInfo = {
   website: "https://[YOUR_DOMAIN.COM]",
   formspreeId: "[FORMSPREE_FORM_ID]", // Replace with your actual Formspree ID e.g. "xqyvzkp1"
   resumePath: "./assets/docs/resume.pdf",
-  profileImagePath: "./assets/images/profile-placeholder.jpg",
+  profileImagePath: "./assets/images/vibes.png",
 
   metrics: [
     {
