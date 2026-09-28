@@ -99,7 +99,7 @@ export interface PersonalInfo {
 }
 
 export const portfolioData: PersonalInfo = {
-  name: "[YOUR NAME]",
+  name: "Bizzy Coder",
   title: "AI/ML Engineer",
   subtitles: [
     "Machine Learning Engineer",
@@ -129,9 +129,9 @@ export const portfolioData: PersonalInfo = {
     "Responsible & Transparent AI: Design for explainability, fairness, and strict privacy boundaries."
   ],
 
-  email: "[YOUR_EMAIL@EXAMPLE.COM]",
-  location: "[YOUR CITY, COUNTRY]",
-  github: "https://github.com/[YOUR_GITHUB_USERNAME]",
+  email: "bizzycoder@gmail.com",
+  location: "Fretown/Sierra Leone",
+  github: "https://github.com/joemrnice/bizzy-coder.io",
   linkedin: "https://linkedin.in/in/[YOUR_LINKEDIN_USERNAME]",
   website: "https://[YOUR_DOMAIN.COM]",
   formspreeId: "[FORMSPREE_FORM_ID]", // Replace with your actual Formspree ID e.g. "xqyvzkp1"
